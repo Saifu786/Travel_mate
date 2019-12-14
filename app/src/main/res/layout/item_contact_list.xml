@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/card_height"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginTop="10dp"
+    android:background="@color/white"
+    android:theme="@style/AppTheme"
+    android:layout_marginLeft="@dimen/activity_horizontal_margin"
+    android:layout_marginRight="@dimen/activity_horizontal_margin"
+    app:cardCornerRadius="@dimen/corner_radius">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/TextAppearance.AppCompat.Title"
+            android:id="@+id/text_name"
+            android:maxLines="1"
+            android:maxLength="18"
+            android:layout_marginLeft="@dimen/uniform_padding"
+            android:padding="@dimen/uniform_padding"
+            android:text="@string/name"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/text_name"
+            android:id="@+id/contact_number"
+            android:maxLines="1"
+            android:maxLength="13"
+            android:padding="@dimen/uniform_padding"
+            android:layout_marginLeft="@dimen/uniform_padding"
+            style="@style/TextAppearance.AppCompat.Title"
+            android:text="7648364364"
+            />
+
+        <utils.CircleImageView
+            android:id="@+id/profile_image"
+            android:layout_width="@dimen/profile_image_height"
+            android:layout_height="@dimen/profile_image_height"
+           android:layout_centerVertical="true"
+            android:layout_centerInParent="true"
+            android:scaleType="centerCrop"
+            app:civ_border_color="@color/black"
+            app:civ_border_width="2dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:id="@+id/click_add"
+            android:layout_marginRight="@dimen/unifor_half_spacing"
+            android:layout_marginTop="@dimen/uniform_padding"
+            android:padding="@dimen/uniform_padding"
+            android:text="Add Friend"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:background="@color/colorAccent"
+            />
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

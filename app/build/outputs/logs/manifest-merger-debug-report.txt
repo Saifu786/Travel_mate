@@ -1,0 +1,851 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:2:1-207:12
+INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:2:1-207:12
+INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:2:1-207:12
+INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:2:1-207:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wozart/.gradle/caches/transforms-2/files-2.1/9d4c74ac1552ffb448864d13a6a9b9cf/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.dmytrodanylyk.android-process-button:library:1.0.4] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3dfc789bfa0efba366a34eb5d81258aa/AndroidManifest.xml:2:1-12:12
+MERGED from [com.cloudinary:cloudinary-android:1.24.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/ce64ae4729c4a788c2b6a56f37dc0244/AndroidManifest.xml:2:1-15:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:17:1-55:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/ebf07e2d2d36dbe3011b158b04d9d4e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/478300534098999f64d3938d4c85d1c3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/e5565766abfc89307045b4d7df19e3eb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/b979f6420af41cc0fb33cf8cb64e2069/AndroidManifest.xml:2:1-15:12
+MERGED from [io.github.tonnyl:whatsnew:0.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/fdbd986d3a237ff60ac9eb752ba96d45/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/26aadc23a7baebfc3ecc19cd13021c25/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.blongho:world-country-data:v1.1.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/df1857430256096ba54a340afbaece19/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/952ecd914e87cad1f3b9e2f2a0cb1461/AndroidManifest.xml:17:1-22:12
+MERGED from [com.airbnb.android:lottie:2.7.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/fc2336722a69e50564f3b3a497917378/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.takusemba:spotlight:1.6.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/47d47901aa925044f9ec10e893fb6151/AndroidManifest.xml:2:1-11:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/1d957cb451c48db1b8bb7aa18a261613/AndroidManifest.xml:2:1-11:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/46bc0497af2dc4bd751e3ae1240264ed/AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/9fb446616555f16005e884c516c17477/AndroidManifest.xml:17:1-22:12
+MERGED from [com.eftimoff:android-pathview:1.0.8] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a740718f425b2dffa6befc674637f899/AndroidManifest.xml:2:1-14:12
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/b3221f8e76787fd7b96edf5db7b2ab42/AndroidManifest.xml:2:1-14:12
+MERGED from [org.osmdroid:osmdroid-android:6.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da9943ede8f9a72f6cd3ff80c40968d3/AndroidManifest.xml:2:1-29:12
+MERGED from [com.ToxicBakery.viewpager.transforms:view-pager-transforms:1.2.32] /Users/wozart/.gradle/caches/transforms-2/files-2.1/c5e01b6a2bce68eba9b3cb949d17af94/AndroidManifest.xml:17:1-27:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/d4310cdd1ca01e8c83bbc19a3989e6e7/AndroidManifest.xml:2:1-7:12
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/4bc8fc43388e6b3d96270ff2b9bcfea6/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/93a58939e8bd371d0f291010ae0fbf63/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.juanlabrador:badgecounter:1.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/12e9d6bb38650467aae0e901b43d3205/AndroidManifest.xml:2:1-12:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/10d5b8ff48ce8b5219a3a4b621d08087/AndroidManifest.xml:15:1-21:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/e30d845e49028b0a3a368aa9cd628c41/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/ac1d7071e76740c86d6abd2345715e65/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3f761fcb2602141d0a3dfecba1bd9e69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/cb77dcb202ca5fda7a4dd2c015ef20a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/939813a6ce21f8373aa5b149fdb3f005/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/aef4f2c86cb9231bb7b16cc8edd00cb3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/1dfb42a64e6af7376c812cdbb005fe04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android:flexbox:1.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/35f440524fee27a75ea79c74ca3250d2/AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.mukeshsolanki:android-otpview-pinview:2.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/31cc978f5d93453f337ff8e016988e29/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.vipulasri:timelineview:1.0.6] /Users/wozart/.gradle/caches/transforms-2/files-2.1/8058c204c8f164cf31239be629762f30/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/92b07013d440d1286b908530b9ef7c49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/4d986c073731e4cbb715cb26f8090fd7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/5fc129312fc9e02930d9a99da34feaf7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/cd12140b3de3ebac781869467835accf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/2891c3bfc0f9562ab9e6c2063d292b61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/c3aace3b305dbeeeef13e59e81317643/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/b17060ebd75347e4fea53882f3ea14b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/c510cd489082d6d9c39cad4052b6a0ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/f9a56534893d0d5d2275acf8e7578ad6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/78ac524c204c38fbe339436f5ba454f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/6be2690234694dcffee17da81e17cebd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/de8ec2dc9e214cd8ddff41238381ce74/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/2c46b0894cda62bb0360c6b6fe2cb197/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/0a5eb89101df7bca4847a7a9ff87cbd8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/4bc6ed37a1b49bcb2f99e8ed2a4091db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/987c8292a099c6dfc8d4cc1fc2c08eac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/29bb9d7e9434e87491ddf1b0c5f8dc93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/21da4a1d889ed49fdf34852edc8672e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/5d21e318794fdb52861f5577b4217f42/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da07df9073b822030571ac26015150ec/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/b43bb6ed3c9843b7ce133a47f9a945a7/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3b60f3de5b415e8cd4d4d6154b295568/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/1dda5222eb75ebb1198d8a91ef095d5b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/76b1b1cbba79a2718c5e41491739ae7d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:2:1-207:12
+INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:2:1-207:12
+INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:2:1-207:12
+	package
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:4:5-44
+		INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:2:1-207:12
+		INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:2:1-207:12
+		INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:6:5-60
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:24:5-26:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:24:5-26:36
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:6:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:7:5-9:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:32:5-34:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:9:9-33
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:8:9-57
+uses-permission#android.permission.CAMERA
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:11:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:21:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:13:22-65
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:14:5-73
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:14:22-70
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:15:5-74
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:15:22-71
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:16:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:17:5-68
+MERGED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:12:5-68
+MERGED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:17:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:18:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:19:5-67
+MERGED from [com.cloudinary:cloudinary-android:1.24.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/ce64ae4729c4a788c2b6a56f37dc0244/AndroidManifest.xml:11:5-67
+MERGED from [com.cloudinary:cloudinary-android:1.24.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/ce64ae4729c4a788c2b6a56f37dc0244/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:20:5-79
+MERGED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:13:5-79
+MERGED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:20:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:21:5-72
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:21:22-69
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:22:5-71
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:22:22-68
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:23:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:25:22-63
+application
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:27:5-205:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wozart/.gradle/caches/transforms-2/files-2.1/9d4c74ac1552ffb448864d13a6a9b9cf/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wozart/.gradle/caches/transforms-2/files-2.1/9d4c74ac1552ffb448864d13a6a9b9cf/AndroidManifest.xml:9:5-20
+MERGED from [com.cloudinary:cloudinary-android:1.24.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/ce64ae4729c4a788c2b6a56f37dc0244/AndroidManifest.xml:13:5-67
+MERGED from [com.cloudinary:cloudinary-android:1.24.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/ce64ae4729c4a788c2b6a56f37dc0244/AndroidManifest.xml:13:5-67
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:45:5-53:19
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/478300534098999f64d3938d4c85d1c3/AndroidManifest.xml:11:5-20
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/478300534098999f64d3938d4c85d1c3/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/e5565766abfc89307045b4d7df19e3eb/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/e5565766abfc89307045b4d7df19e3eb/AndroidManifest.xml:22:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/b979f6420af41cc0fb33cf8cb64e2069/AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/b979f6420af41cc0fb33cf8cb64e2069/AndroidManifest.xml:13:5-20
+MERGED from [com.airbnb.android:lottie:2.7.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/fc2336722a69e50564f3b3a497917378/AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:2.7.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/fc2336722a69e50564f3b3a497917378/AndroidManifest.xml:11:5-20
+MERGED from [com.eftimoff:android-pathview:1.0.8] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a740718f425b2dffa6befc674637f899/AndroidManifest.xml:12:5-20
+MERGED from [com.eftimoff:android-pathview:1.0.8] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a740718f425b2dffa6befc674637f899/AndroidManifest.xml:12:5-20
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/b3221f8e76787fd7b96edf5db7b2ab42/AndroidManifest.xml:12:5-20
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/b3221f8e76787fd7b96edf5db7b2ab42/AndroidManifest.xml:12:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/e30d845e49028b0a3a368aa9cd628c41/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/e30d845e49028b0a3a368aa9cd628c41/AndroidManifest.xml:22:5-28:19
+MERGED from [com.github.vipulasri:timelineview:1.0.6] /Users/wozart/.gradle/caches/transforms-2/files-2.1/8058c204c8f164cf31239be629762f30/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.vipulasri:timelineview:1.0.6] /Users/wozart/.gradle/caches/transforms-2/files-2.1/8058c204c8f164cf31239be629762f30/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/6be2690234694dcffee17da81e17cebd/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/6be2690234694dcffee17da81e17cebd/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/de8ec2dc9e214cd8ddff41238381ce74/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/de8ec2dc9e214cd8ddff41238381ce74/AndroidManifest.xml:22:5-23:19
+MERGED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:16:5-63:19
+MERGED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:16:5-63:19
+	android:screenOrientation
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:34:9-45
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/6be2690234694dcffee17da81e17cebd/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:35:9-35
+	android:label
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:32:9-41
+	android:fullBackupContent
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:30:9-59
+		REJECTED from [com.cloudinary:cloudinary-android:1.24.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/ce64ae4729c4a788c2b6a56f37dc0244/AndroidManifest.xml:13:18-64
+	tools:ignore
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:16:18-44
+	android:largeHeap
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:33:9-33
+	android:icon
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:31:9-52
+	android:allowBackup
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:29:9-35
+	android:theme
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:36:9-40
+	tools:replace
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:37:9-50
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:28:9-46
+activity#io.github.project_travel_mate.mytrips.TripImageActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:38:9-41:47
+	android:configChanges
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:40:13-59
+	android:theme
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:39:13-54
+activity#io.github.project_travel_mate.MainActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:42:9-59:20
+	android:label
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:44:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:47:13-55
+	android:configChanges
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:46:13-59
+	android:theme
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:45:13-49
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:43:13-41
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:project-travel-mate.github.io+data:pathPattern:.*+data:scheme:http+data:scheme:https
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:48:13-58:29
+action#android.intent.action.VIEW
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:49:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:51:17-76
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:51:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:52:17-78
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:52:27-75
+data
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:54:17-70
+	android:host
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:54:23-67
+	android:scheme
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:55:23-45
+	android:pathPattern
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:57:23-47
+service#utils.GPSTracker
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:61:9-63:38
+	android:enabled
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:63:13-35
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:62:13-44
+activity#io.github.project_travel_mate.utilities.ChecklistActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:65:9-68:54
+	android:label
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:67:13-63
+	android:theme
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:68:13-51
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:66:13-56
+activity#io.github.project_travel_mate.travel.ShoppingCurrentCityActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:69:9-72:54
+	android:label
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:71:13-72
+	android:theme
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:72:13-51
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:70:13-63
+activity#io.github.project_travel_mate.travel.HotelsActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:73:9-77:54
+	android:label
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:76:13-58
+	android:configChanges
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:75:13-59
+	android:theme
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:77:13-51
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:74:13-50
+activity#io.github.project_travel_mate.travel.MapViewRealTimeActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:78:9-81:54
+	android:label
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:80:13-55
+	android:theme
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:81:13-51
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:79:13-59
+activity#io.github.project_travel_mate.SplashActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:82:9-95:20
+	android:label
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:84:13-45
+	android:theme
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:85:13-49
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:83:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:86:13-90:29
+action#android.intent.action.MAIN
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:87:17-69
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:87:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:89:17-77
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:89:27-74
+meta-data#android.app.shortcuts
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:92:13-94:53
+	android:resource
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:94:17-50
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:93:17-53
+activity#io.github.project_travel_mate.destinations.funfacts.FunFactsActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:96:9-99:54
+	android:label
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:98:13-61
+	android:theme
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:99:13-51
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:97:13-67
+activity#io.github.project_travel_mate.utilities.ShareContactActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:100:9-68
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:100:19-65
+activity#io.github.project_travel_mate.login.LoginActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:101:9-105:54
+	android:label
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:103:13-57
+	android:windowSoftInputMode
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:105:13-52
+	android:theme
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:104:13-49
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:102:13-48
+activity#io.github.project_travel_mate.destinations.description.FinalCityInfoActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:106:9-108:52
+	android:theme
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:108:13-49
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:107:13-75
+activity#io.github.project_travel_mate.destinations.description.PlacesOnMapActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:109:9-82
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:109:19-79
+activity#io.github.project_travel_mate.mytrips.AddNewTripActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:110:9-64
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:110:19-61
+activity#io.github.project_travel_mate.mytrips.MyTripInfoActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:111:9-114:57
+	android:windowSoftInputMode
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:114:13-54
+	android:theme
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:113:13-49
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:112:13-55
+activity#io.github.project_travel_mate.destinations.description.TweetsActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:115:9-77
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:115:19-74
+activity#io.github.project_travel_mate.VerifyEmailActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:116:9-119:52
+	android:label
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:118:13-49
+	android:theme
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:119:13-49
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:117:13-48
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:121:9-129:20
+	android:grantUriPermissions
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:125:13-47
+	android:authorities
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:123:13-74
+	android:exported
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:124:13-37
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:122:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:126:13-128:58
+	android:resource
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:128:17-55
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:127:17-67
+activity#io.github.project_travel_mate.ProfileActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:131:9-132:68
+	android:configChanges
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:132:19-65
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:131:19-50
+activity#io.github.project_travel_mate.friend.FriendsProfileActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:133:9-67
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:133:19-64
+activity#io.github.project_travel_mate.notifications.NotificationsActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:134:9-73
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:134:19-70
+activity#io.github.project_travel_mate.FullScreenImage
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:135:9-137:60
+	android:theme
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:137:13-57
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:136:13-44
+activity#io.github.project_travel_mate.utilities.WeatherForecastActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:138:9-71
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:138:19-68
+activity#io.github.project_travel_mate.utilities.CompassActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:139:9-63
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:139:19-60
+activity#io.github.project_travel_mate.utilities.CurrencyActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:140:9-64
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:140:19-61
+activity#io.github.project_travel_mate.utilities.WorldClockActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:141:9-66
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:141:19-63
+activity#io.github.project_travel_mate.utilities.CurrencyListViewActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:142:9-72
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:142:19-69
+activity#io.github.project_travel_mate.utilities.TimezoneListViewActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:143:9-72
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:143:19-69
+activity#io.github.project_travel_mate.destinations.description.WeatherActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:144:9-78
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:144:19-75
+activity#io.github.project_travel_mate.utilities.UpcomingWeekendsActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:145:9-72
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:145:19-69
+activity#io.github.project_travel_mate.destinations.description.CityHistoryActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:146:9-82
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:146:19-79
+activity#io.github.project_travel_mate.destinations.description.CityMapActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:147:9-78
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:147:19-75
+activity#io.github.project_travel_mate.travel.ListViewRealTimeActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:148:9-69
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:148:19-66
+activity#io.github.project_travel_mate.destinations.description.RestaurantsActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:149:9-82
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:149:19-79
+activity#io.github.project_travel_mate.destinations.description.TweetsDescriptionActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:150:9-88
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:150:19-85
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:151:9-85
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:151:19-82
+activity#io.github.project_travel_mate.utilities.QuotesActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:152:9-154:11
+	android:theme
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:153:13-63
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:152:19-59
+activity#io.github.project_travel_mate.DeleteProfilePictureActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:155:9-165:20
+	android:label
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:158:13-49
+	android:icon
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:157:13-53
+	android:theme
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:159:13-59
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:156:13-57
+intent-filter#action:name:android.intent.action.DELETE+category:name:android.intent.category.DEFAULT
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:160:13-164:29
+action#android.intent.action.DELETE
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:161:17-71
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:161:25-68
+activity#io.github.project_travel_mate.destinations.description.RestaurantDetailsActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:166:9-168:52
+	android:theme
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:168:13-49
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:167:13-79
+receiver#widget.CheckListWidgetProvider
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:170:9-180:20
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:170:19-64
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:171:13-175:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:174:17-84
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:174:25-81
+meta-data#android.appwidget.provider
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:177:13-179:65
+	android:resource
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:179:17-62
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:178:17-58
+service#widget.CheckListWidgetService
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:182:9-184:72
+	android:permission
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:184:13-69
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:183:13-57
+meta-data#preloaded_fonts
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:186:9-188:57
+	android:resource
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:188:13-54
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:187:13-43
+receiver#widget.ClockWidget
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:190:9-198:20
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:190:19-52
+activity#widget.ClockWidgetConfigureActivity
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:200:9-204:20
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:200:19-69
+intent-filter#action:name:android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:201:13-203:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:202:17-87
+	android:name
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml:202:25-84
+uses-sdk
+INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wozart/.gradle/caches/transforms-2/files-2.1/9d4c74ac1552ffb448864d13a6a9b9cf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wozart/.gradle/caches/transforms-2/files-2.1/9d4c74ac1552ffb448864d13a6a9b9cf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.dmytrodanylyk.android-process-button:library:1.0.4] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3dfc789bfa0efba366a34eb5d81258aa/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.dmytrodanylyk.android-process-button:library:1.0.4] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3dfc789bfa0efba366a34eb5d81258aa/AndroidManifest.xml:8:5-10:41
+MERGED from [com.cloudinary:cloudinary-android:1.24.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/ce64ae4729c4a788c2b6a56f37dc0244/AndroidManifest.xml:7:5-9:41
+MERGED from [com.cloudinary:cloudinary-android:1.24.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/ce64ae4729c4a788c2b6a56f37dc0244/AndroidManifest.xml:7:5-9:41
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-v4:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/ebf07e2d2d36dbe3011b158b04d9d4e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/ebf07e2d2d36dbe3011b158b04d9d4e3/AndroidManifest.xml:20:5-44
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/478300534098999f64d3938d4c85d1c3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/478300534098999f64d3938d4c85d1c3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/e5565766abfc89307045b4d7df19e3eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/e5565766abfc89307045b4d7df19e3eb/AndroidManifest.xml:20:5-44
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/b979f6420af41cc0fb33cf8cb64e2069/AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/b979f6420af41cc0fb33cf8cb64e2069/AndroidManifest.xml:8:5-11:75
+MERGED from [io.github.tonnyl:whatsnew:0.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/fdbd986d3a237ff60ac9eb752ba96d45/AndroidManifest.xml:8:5-11:72
+MERGED from [io.github.tonnyl:whatsnew:0.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/fdbd986d3a237ff60ac9eb752ba96d45/AndroidManifest.xml:8:5-11:72
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/26aadc23a7baebfc3ecc19cd13021c25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/26aadc23a7baebfc3ecc19cd13021c25/AndroidManifest.xml:20:5-44
+MERGED from [com.github.blongho:world-country-data:v1.1.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/df1857430256096ba54a340afbaece19/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.blongho:world-country-data:v1.1.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/df1857430256096ba54a340afbaece19/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/952ecd914e87cad1f3b9e2f2a0cb1461/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/952ecd914e87cad1f3b9e2f2a0cb1461/AndroidManifest.xml:20:5-44
+MERGED from [com.airbnb.android:lottie:2.7.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/fc2336722a69e50564f3b3a497917378/AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:2.7.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/fc2336722a69e50564f3b3a497917378/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.takusemba:spotlight:1.6.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/47d47901aa925044f9ec10e893fb6151/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.takusemba:spotlight:1.6.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/47d47901aa925044f9ec10e893fb6151/AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/1d957cb451c48db1b8bb7aa18a261613/AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/1d957cb451c48db1b8bb7aa18a261613/AndroidManifest.xml:7:5-9:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/46bc0497af2dc4bd751e3ae1240264ed/AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/46bc0497af2dc4bd751e3ae1240264ed/AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/9fb446616555f16005e884c516c17477/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/9fb446616555f16005e884c516c17477/AndroidManifest.xml:20:5-44
+MERGED from [com.eftimoff:android-pathview:1.0.8] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a740718f425b2dffa6befc674637f899/AndroidManifest.xml:8:5-10:41
+MERGED from [com.eftimoff:android-pathview:1.0.8] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a740718f425b2dffa6befc674637f899/AndroidManifest.xml:8:5-10:41
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/b3221f8e76787fd7b96edf5db7b2ab42/AndroidManifest.xml:8:5-10:41
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/b3221f8e76787fd7b96edf5db7b2ab42/AndroidManifest.xml:8:5-10:41
+MERGED from [org.osmdroid:osmdroid-android:6.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da9943ede8f9a72f6cd3ff80c40968d3/AndroidManifest.xml:7:5-9:41
+MERGED from [org.osmdroid:osmdroid-android:6.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da9943ede8f9a72f6cd3ff80c40968d3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ToxicBakery.viewpager.transforms:view-pager-transforms:1.2.32] /Users/wozart/.gradle/caches/transforms-2/files-2.1/c5e01b6a2bce68eba9b3cb949d17af94/AndroidManifest.xml:23:5-25:41
+MERGED from [com.ToxicBakery.viewpager.transforms:view-pager-transforms:1.2.32] /Users/wozart/.gradle/caches/transforms-2/files-2.1/c5e01b6a2bce68eba9b3cb949d17af94/AndroidManifest.xml:23:5-25:41
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/d4310cdd1ca01e8c83bbc19a3989e6e7/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/d4310cdd1ca01e8c83bbc19a3989e6e7/AndroidManifest.xml:5:5-43
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/4bc8fc43388e6b3d96270ff2b9bcfea6/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/4bc8fc43388e6b3d96270ff2b9bcfea6/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/93a58939e8bd371d0f291010ae0fbf63/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/93a58939e8bd371d0f291010ae0fbf63/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.juanlabrador:badgecounter:1.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/12e9d6bb38650467aae0e901b43d3205/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.juanlabrador:badgecounter:1.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/12e9d6bb38650467aae0e901b43d3205/AndroidManifest.xml:8:5-10:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/10d5b8ff48ce8b5219a3a4b621d08087/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/10d5b8ff48ce8b5219a3a4b621d08087/AndroidManifest.xml:19:5-43
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/e30d845e49028b0a3a368aa9cd628c41/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/e30d845e49028b0a3a368aa9cd628c41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/ac1d7071e76740c86d6abd2345715e65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/ac1d7071e76740c86d6abd2345715e65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3f761fcb2602141d0a3dfecba1bd9e69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3f761fcb2602141d0a3dfecba1bd9e69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/cb77dcb202ca5fda7a4dd2c015ef20a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/cb77dcb202ca5fda7a4dd2c015ef20a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/939813a6ce21f8373aa5b149fdb3f005/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/939813a6ce21f8373aa5b149fdb3f005/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/aef4f2c86cb9231bb7b16cc8edd00cb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/aef4f2c86cb9231bb7b16cc8edd00cb3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/1dfb42a64e6af7376c812cdbb005fe04/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/1dfb42a64e6af7376c812cdbb005fe04/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android:flexbox:1.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/35f440524fee27a75ea79c74ca3250d2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.google.android:flexbox:1.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/35f440524fee27a75ea79c74ca3250d2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.github.mukeshsolanki:android-otpview-pinview:2.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/31cc978f5d93453f337ff8e016988e29/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mukeshsolanki:android-otpview-pinview:2.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/31cc978f5d93453f337ff8e016988e29/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.vipulasri:timelineview:1.0.6] /Users/wozart/.gradle/caches/transforms-2/files-2.1/8058c204c8f164cf31239be629762f30/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.vipulasri:timelineview:1.0.6] /Users/wozart/.gradle/caches/transforms-2/files-2.1/8058c204c8f164cf31239be629762f30/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/92b07013d440d1286b908530b9ef7c49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/92b07013d440d1286b908530b9ef7c49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/4d986c073731e4cbb715cb26f8090fd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/4d986c073731e4cbb715cb26f8090fd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/5fc129312fc9e02930d9a99da34feaf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/5fc129312fc9e02930d9a99da34feaf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/cd12140b3de3ebac781869467835accf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/cd12140b3de3ebac781869467835accf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/2891c3bfc0f9562ab9e6c2063d292b61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/2891c3bfc0f9562ab9e6c2063d292b61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/c3aace3b305dbeeeef13e59e81317643/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/c3aace3b305dbeeeef13e59e81317643/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/b17060ebd75347e4fea53882f3ea14b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/b17060ebd75347e4fea53882f3ea14b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/c510cd489082d6d9c39cad4052b6a0ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/c510cd489082d6d9c39cad4052b6a0ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/f9a56534893d0d5d2275acf8e7578ad6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/f9a56534893d0d5d2275acf8e7578ad6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/78ac524c204c38fbe339436f5ba454f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/78ac524c204c38fbe339436f5ba454f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/6be2690234694dcffee17da81e17cebd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/6be2690234694dcffee17da81e17cebd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/de8ec2dc9e214cd8ddff41238381ce74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/de8ec2dc9e214cd8ddff41238381ce74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/2c46b0894cda62bb0360c6b6fe2cb197/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/2c46b0894cda62bb0360c6b6fe2cb197/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/0a5eb89101df7bca4847a7a9ff87cbd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/0a5eb89101df7bca4847a7a9ff87cbd8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/4bc6ed37a1b49bcb2f99e8ed2a4091db/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/4bc6ed37a1b49bcb2f99e8ed2a4091db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/987c8292a099c6dfc8d4cc1fc2c08eac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/987c8292a099c6dfc8d4cc1fc2c08eac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/29bb9d7e9434e87491ddf1b0c5f8dc93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/29bb9d7e9434e87491ddf1b0c5f8dc93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/21da4a1d889ed49fdf34852edc8672e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/21da4a1d889ed49fdf34852edc8672e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/5d21e318794fdb52861f5577b4217f42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/5d21e318794fdb52861f5577b4217f42/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da07df9073b822030571ac26015150ec/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da07df9073b822030571ac26015150ec/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/b43bb6ed3c9843b7ce133a47f9a945a7/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/b43bb6ed3c9843b7ce133a47f9a945a7/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3b60f3de5b415e8cd4d4d6154b295568/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3b60f3de5b415e8cd4d4d6154b295568/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/1dda5222eb75ebb1198d8a91ef095d5b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/1dda5222eb75ebb1198d8a91ef095d5b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/76b1b1cbba79a2718c5e41491739ae7d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/76b1b1cbba79a2718c5e41491739ae7d/AndroidManifest.xml:20:5-44
+MERGED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:8:5-10:41
+MERGED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:8:5-10:41
+INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/b979f6420af41cc0fb33cf8cb64e2069/AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wozart/Downloads/Travel-Mate-master/Android/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:41:5-43:36
+MERGED from [org.osmdroid:osmdroid-android:6.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da9943ede8f9a72f6cd3ff80c40968d3/AndroidManifest.xml:25:5-27:36
+MERGED from [org.osmdroid:osmdroid-android:6.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da9943ede8f9a72f6cd3ff80c40968d3/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/a19cdc042c31dc85321d1e138099f6c6/AndroidManifest.xml:47:13-74
+supports-screens
+ADDED from [org.osmdroid:osmdroid-android:6.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da9943ede8f9a72f6cd3ff80c40968d3/AndroidManifest.xml:11:5-14:40
+	android:largeScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da9943ede8f9a72f6cd3ff80c40968d3/AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da9943ede8f9a72f6cd3ff80c40968d3/AndroidManifest.xml:14:9-37
+	android:anyDensity
+		ADDED from [org.osmdroid:osmdroid-android:6.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da9943ede8f9a72f6cd3ff80c40968d3/AndroidManifest.xml:12:9-34
+uses-feature#android.hardware.location.network
+ADDED from [org.osmdroid:osmdroid-android:6.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da9943ede8f9a72f6cd3ff80c40968d3/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da9943ede8f9a72f6cd3ff80c40968d3/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da9943ede8f9a72f6cd3ff80c40968d3/AndroidManifest.xml:17:9-57
+uses-feature#android.hardware.location.gps
+ADDED from [org.osmdroid:osmdroid-android:6.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da9943ede8f9a72f6cd3ff80c40968d3/AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da9943ede8f9a72f6cd3ff80c40968d3/AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da9943ede8f9a72f6cd3ff80c40968d3/AndroidManifest.xml:20:9-53
+uses-feature#android.hardware.telephony
+ADDED from [org.osmdroid:osmdroid-android:6.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da9943ede8f9a72f6cd3ff80c40968d3/AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da9943ede8f9a72f6cd3ff80c40968d3/AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.0.2] /Users/wozart/.gradle/caches/transforms-2/files-2.1/da9943ede8f9a72f6cd3ff80c40968d3/AndroidManifest.xml:23:9-50
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/e30d845e49028b0a3a368aa9cd628c41/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/e30d845e49028b0a3a368aa9cd628c41/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/e30d845e49028b0a3a368aa9cd628c41/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/e30d845e49028b0a3a368aa9cd628c41/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/wozart/.gradle/caches/transforms-2/files-2.1/e30d845e49028b0a3a368aa9cd628c41/AndroidManifest.xml:24:13-83
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:14:22-78
+service#com.evernote.android.job.v21.PlatformJobService
+ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:17:9-20:72
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:19:13-37
+	android:permission
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:20:13-69
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:18:13-75
+service#com.evernote.android.job.v14.PlatformAlarmService
+ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:21:9-24:72
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:23:13-37
+	android:permission
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:24:13-69
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:22:13-77
+service#com.evernote.android.job.v14.PlatformAlarmServiceExact
+ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:26:13-82
+receiver#com.evernote.android.job.v14.PlatformAlarmReceiver
+ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:29:9-38:20
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:30:13-78
+intent-filter#action:name:com.evernote.android.job.v14.RUN_JOB+action:name:net.vrallev.android.job.v14.RUN_JOB
+ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:32:13-37:29
+action#com.evernote.android.job.v14.RUN_JOB
+ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:35:17-79
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:35:25-76
+action#net.vrallev.android.job.v14.RUN_JOB
+ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:36:17-78
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:36:25-75
+receiver#com.evernote.android.job.JobBootReceiver
+ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:39:9-48:20
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:40:13-68
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:42:13-47:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:43:17-79
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:43:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:44:17-82
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:44:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:45:25-79
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:46:17-84
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:46:25-81
+service#com.evernote.android.job.gcm.PlatformGcmService
+ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:50:9-58:19
+	android:enabled
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:52:13-36
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:53:13-36
+	android:permission
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:54:13-93
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:51:13-75
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:55:13-57:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:56:17-87
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:56:25-84
+service#com.evernote.android.job.JobRescheduleService
+ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:59:9-62:72
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:61:13-37
+	android:permission
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:62:13-69
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] /Users/wozart/.gradle/caches/transforms-2/files-2.1/3d90da55e0918c59780f3186efb3b8f6/AndroidManifest.xml:60:13-73
